@@ -38,7 +38,15 @@ Player tier
 First set outcome
 
 
-Key results:
+Key results: ### 📊 Pivot Table Outputs
+
+*Elite vs Non-Elite Matches*
+
+![Elite vs Non-Elite Pivot](images/elite_vs_non_elite_pivot.png)
+
+*Same Tier Matches*
+
+![Same Tier Pivot](images/same_tier_pivot.png)
 
 Elite vs Non-Elite (Player 1 = Elite): 
 Winning the first set resulted in ∼93% match win rate 
