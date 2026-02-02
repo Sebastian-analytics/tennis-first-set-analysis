@@ -12,6 +12,9 @@ Over 66,000 ATP Tour matches
 Qualifying matches excluded
 Walkovers and forfeits removed
 
+Tools Used
+- Microsoft Excel (data cleaning, feature engineering, pivot tables)
+
 Key variables used:
 
 Player rankings at match date
@@ -57,6 +60,12 @@ As perceived, Elite players demonstrate a significantly stronger comeback abilit
 What is also noticeable is the importance of the first set in a same tier match. Elite players winning roughly 13/14 times vs non-elites after winning the first set was an expected outcome, however winning the first set results in winning the match in 4 out of 5 same tier matches, which shows the significance of it. 
 What is also important to notice is the comeback ability of the elites, winning 3/7 matches after being down a set vs non-elites, which is an extraordinary number, compared to a same tier match. Highlights the importance of ranking gaps.
 
+How to Reproduce
+1. Open the Excel file included in this repository (atp_first_set_analysis.xlsx)
+2. Navigate to the pivot table sheets
+3. Use filters to explore match outcomes by:
+   - Player tier (Elite vs Non-Elite)
+   - First set result
 
 Limitations:
 
